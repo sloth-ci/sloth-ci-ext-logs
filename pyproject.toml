@@ -5,7 +5,7 @@ description = "File logging for Sloth CI"
 authors = ["Constantine Molchanov <moigagoo@live.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "sloth_ci_ext_logs"}]
+packages = [{include = "sloth_ci_ext_logs.py"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
